@@ -73,8 +73,13 @@ make deploy
 
 ![Screenshot 2024-04-26 142547](https://github.com/DCVglobalnetwork/Foundry-ERC20/assets/105791829/da1475f0-6821-4e8c-b821-f5a207635f9e)
 
+
+![Screenshot 2024-04-26 142641](https://github.com/DCVglobalnetwork/Foundry-ERC20/assets/105791829/9c3a59fb-b16c-46e4-9520-9d3150ddb48c)
+
+
 ```shell
 $ forge --help
 $ anvil --help
 $ cast --help
 ```
+### HAPPY CODING 
