@@ -37,6 +37,7 @@ git clone https://github.com/DCVglobalnetwork/Foundry-ERC20.git
 cd foundry-erc20
 forge install 
 forge build
+```
 
 ## Usage
 
